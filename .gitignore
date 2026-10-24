@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Scratch & development logs
+*.txt
+!log.txt
+*.log
+sample_test_out.csv
+scratch/
